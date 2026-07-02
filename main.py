@@ -6,7 +6,7 @@ import json
 import os
 
 # Constante de API Key
-API_KEY = "motomods2024"
+API_KEY = "Viper2028"
 
 # Inicializar FastAPI
 app = FastAPI(
