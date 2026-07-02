@@ -1,13 +1,13 @@
 {
     "1": {
         "id": 1,
-        "nombre": "Escape Akrapovic Titanium",
+        "nombre": "Escape Akrapovic FULL",
         "categoria": "escape",
         "marca": "Akrapovic",
         "modelo_moto": "Yamaha MT-09",
-        "precio": 899.99,
-        "stock": 5,
-        "descripcion": "Sistema de escape completo en titanio"
+        "precio": 999.99,
+        "stock": 2,
+        "descripcion": "Actualizado"
     },
     "2": {
         "id": 2,
@@ -15,18 +15,18 @@
         "categoria": "suspension",
         "marca": "Öhlins",
         "modelo_moto": "Kawasaki Z900",
-        "precio": 1249.50,
+        "precio": 750.0,
         "stock": 3,
         "descripcion": "Amortiguador trasero ajustable"
     },
-    "3": {
-        "id": 3,
-        "nombre": "Centralita Dynojet Power Commander",
-        "categoria": "centralita",
-        "marca": "Dynojet",
-        "modelo_moto": "Honda CB650R",
-        "precio": 459.00,
-        "stock": 8,
-        "descripcion": "Centralita programable para optimizar rendimiento"
+    "10": {
+        "id": 10,
+        "nombre": "Filtro K&N",
+        "categoria": "filtro",
+        "marca": "K&N",
+        "modelo_moto": "Yamaha MT-07",
+        "precio": 89.5,
+        "stock": 15,
+        "descripcion": "Filtro de aire de alto flujo"
     }
 }
